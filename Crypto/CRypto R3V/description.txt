@@ -1,0 +1,3 @@
+D3vansh was learning basics of encoding , he implemented a dumb algorithm .
+
+Try to reverse the code . ! It is easy , just think like a wizard . ! 
