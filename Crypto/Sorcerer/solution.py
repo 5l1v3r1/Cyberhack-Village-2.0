@@ -13,3 +13,5 @@ for i in range(256):
 	decoded = ''.join(chr(ord(b)^i) for b in unhexed)
         if "BHARAT" in decoded:
           print(decoded)
+
+#FLAG : BHARAT{y0u_kn0w_x0r_N0w}
