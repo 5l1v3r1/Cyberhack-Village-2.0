@@ -1,0 +1,3 @@
+That one is really easy . ! It is a popular hashing technique . !
+
+Flag Format : BHARAT{decypted_string} 
